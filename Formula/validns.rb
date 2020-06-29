@@ -1,7 +1,7 @@
 class Validns < Formula
   homepage "http://www.validns.net/"
-  url "https://github.com/DENICeG/validns/archive/2bfecb3aa82db2f7595de9db0d08d58dccd71a2e.zip"
-  sha256 "e190a1ac19167a77a4965936c36e2323d1f382a575ed3294aa101de469fe5368"
+  url "https://github.com/DENICeG/validns/archive/5ca9faac7942019e2151db250f01d0a87f1eb388.zip"
+  sha256 "54150b1ce82b2e15efcecf5074fbbf1c991f7095c2ed64431167ecb8a826a9db"
   version "0.8"
 
   depends_on "fhemberger/validns/judy"
